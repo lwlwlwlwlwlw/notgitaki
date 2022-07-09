@@ -1,4 +1,4 @@
-# Jobify
+# Notaki
 
 #### Track Your Job Search
 
